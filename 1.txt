@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 this is first line
 this is main line`
+=======
+this is first line`
+this is third line
+>>>>>>> 39f89de6c1809278f04c5d17592160dbc5e4b163
 This is second line
