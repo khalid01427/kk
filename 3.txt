@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is added by local team.
+=======
+This is added by github web
+>>>>>>> a001a3bb8144be8529cab5052d7bcba42eaf10e5
