@@ -1,1 +1,13 @@
 https://www.youtube.com/playlist?list=PL_YF--8vjjEVEXMf2hEFn0D5tEJV9kRqi  --SSIS development playList
+https://learn.microsoft.com/en-us/sql/relational-databases/indexes/reorganize-and-rebuild-indexes?view=sql-server-ver16
+
+The Database Engine automatically modifies indexes whenever insert, update, or delete operations are made to the underlying data. 
+For example, the addition of rows in a table can cause existing pages in rowstore indexes to split, making room for the insertion of new rows.
+Over time these modifications can cause the data in the index to become scattered in the database (fragmented).
+
+
+sys.dm_db_index_physical_stats
+sys.tables
+sys.schema
+https://www.youtube.com/watch?v=fgQ0aUL4D-g    --Index either rebuild/reorganize
+https://www.interviewbit.com/ssis-interview-questions/
