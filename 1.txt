@@ -13,3 +13,10 @@ sys.tables
 sys.schema
 https://www.youtube.com/watch?v=fgQ0aUL4D-g    --Index either rebuild/reorganize
 https://www.interviewbit.com/ssis-interview-questions/
+
+RDD (pyspark.RDD)
+DataFrame and SQL (pyspark.sql)
+Streaming (pyspark.streaming)
+MLib (pyspark.ml, pyspark.mllib)
+GraphFrames (GraphFrames)
+Resource (pyspark.resource) It’s new in PySpark 3.0
