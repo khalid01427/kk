@@ -1,6 +1,7 @@
 https://www.youtube.com/playlist?list=PL_YF--8vjjEVEXMf2hEFn0D5tEJV9kRqi  --SSIS development playList
 https://learn.microsoft.com/en-us/sql/relational-databases/indexes/reorganize-and-rebuild-indexes?view=sql-server-ver16
 https://www.youtube.com/watch?v=k0S4P-a6d5w --SQL server tutorial series
+https://www.youtube.com/watch?v=GNHF0DZK3xQ    ---Hadoop Installation
 
 
 The Database Engine automatically modifies indexes whenever insert, update, or delete operations are made to the underlying data. 
